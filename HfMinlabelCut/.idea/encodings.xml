@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../../../FORSOFT/QT/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_string.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GraphAdjMat.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GraphAdjMat_Test.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
