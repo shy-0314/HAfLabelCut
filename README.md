@@ -11,13 +11,13 @@ Experimental simulations on random instances show that the heuristic overwhelmin
 
 ## Experimental Results
 <div align="center">
-<img src="/pic/config.png" alt="Results on dataset Config" width="600">
+<img src="/pic/config.png"  title="Results on dataset config" alt="Results on dataset Config" width="600">
 </div>
 <div align="center">
-    <img src="/pic/gnp0.2.png" alt="Results on dataset GNP p=0.2" width="300">
-    <img src="/pic/gnp0.5.png" alt="Results on dataset GNP p=0.5" width="300">
-    <img src="/pic/gnp0.8.png" alt="Results on dataset GNP p=0.8" width="300">
+    <img src="/pic/gnp0.2.png" title="Results on dataset GNP p=0.2" alt="Results on dataset GNP p=0.2" width="300">
+    <img src="/pic/gnp0.5.png" title="Results on dataset GNP p=0.5" alt="Results on dataset GNP p=0.5" width="300">
+    <img src="/pic/gnp0.8.png" title="Results on dataset GNP p=0.8"alt="Results on dataset GNP p=0.8" width="300">
 </div>
 <div align="center">
-<img src="/pic/spg.png" alt="Results on dataset SPG" width="600">
+<img src="/pic/spg.png"  title="Results on dataset SPG" alt="Results on dataset SPG" width="600">
 </div>
