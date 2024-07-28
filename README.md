@@ -10,12 +10,14 @@ Based on this concept, we devise a Monte Carlo strategy to score labels in order
 Experimental simulations on random instances show that the heuristic overwhelmingly outperforms the best approximation algorithm for the problem.
 
 ## Experimental Results
-
+<div align="center">
 <img src="/pic/config.png" alt="Results on dataset Config" width="600">
-
+</div>
 <div align="center">
     <img src="/pic/gnp0.2.png" alt="Results on dataset GNP p=0.2" width="300">
     <img src="/pic/gnp0.5.png" alt="Results on dataset GNP p=0.5" width="300">
     <img src="/pic/gnp0.8.png" alt="Results on dataset GNP p=0.8" width="300">
 </div>
+<div align="center">
 <img src="/pic/spg.png" alt="Results on dataset SPG" width="600">
+</div>
