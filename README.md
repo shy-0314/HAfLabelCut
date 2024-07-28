@@ -10,3 +10,4 @@ Based on this concept, we devise a Monte Carlo strategy to score labels in order
 Experimental simulations on random instances show that the heuristic overwhelmingly outperforms the best approximation algorithm for the problem.
 
 ## Experimental Results
+![这是图片](/pic/config.png "Results on dataset Config")
